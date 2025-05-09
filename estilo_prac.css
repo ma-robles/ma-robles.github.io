@@ -1,0 +1,152 @@
+  /* Import a modern google font */
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+  /* Reset and base */
+  *, *::before, *::after {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    color: #f0f0f5;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 15px;
+  }
+
+  main {
+    background: rgba(255,255,255,0.1);
+    border-radius: 15px;
+    padding: 20px;
+    max-width: 350px;
+    width: 100%;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+  }
+
+  header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  header h1 {
+    margin: 0;
+    font-weight: 700;
+    font-size: 1.8rem;
+  }
+
+  header p {
+    margin: 5px 0 0;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 0.9rem;
+    color: #cfcffe;
+  }
+
+  section {
+    margin-bottom: 20px;
+  }
+
+  section h2 {
+    font-weight: 700;
+    border-bottom: 2px solid #cfcffe;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+  }
+
+  .about-me {
+    font-size: 0.95rem;
+    line-height: 1.4;
+  }
+
+  .skills-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .skills-list span {
+    background: #8a79ff;
+    padding: 5px 13px;
+    border-radius: 12px;
+    font-size: 0.85rem;
+    cursor: default;
+    user-select: none;
+    transition: background 0.3s;
+  }
+  .skills-list span:hover {
+    background: #b3abff;
+  }
+
+  .portfolio-list {
+    list-style: none;
+    padding: 0;
+  }
+
+  .portfolio-list li {
+    background: #8a79ff33;
+    margin-bottom: 8px;
+    padding: 8px 12px;
+    border-radius: 10px;
+    transition: background 0.3s;
+  }
+
+  .portfolio-list li a {
+    color: #f0f0f5;
+    text-decoration: none;
+    font-weight: 600;
+  }
+  .portfolio-list li:hover {
+    background: #8a79ff66;
+  }
+
+  .contact-info {
+    font-size: 0.9rem;
+  }
+
+  .contact-info a {
+    color: #cfcffe;
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  .contact-info a:hover {
+    text-decoration: underline;
+  }
+
+  footer {
+    margin-top: auto;
+    color: #cfcffe99;
+    font-size: 0.8rem;
+    padding: 10px 0 5px;
+  }
+
+  /* Responsive for smaller screen height */
+  @media (max-height: 600px) {
+    main {
+      padding: 15px;
+    }
+    header h1 {
+      font-size: 1.5rem;
+    }
+    section h2 {
+      font-size: 1.1rem;
+    }
+  }
+
+  /* Responsive for very small widths */
+  @media (max-width: 350px) {
+    body {
+      padding: 15px 8px;
+    }
+    main {
+      max-width: 100%;
+    }
+    .skills-list span {
+      padding: 4px 10px;
+      font-size: 0.8rem;
+    }
+  }
