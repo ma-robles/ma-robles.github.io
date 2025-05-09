@@ -34,6 +34,7 @@ Al inicio de las prácticas se te brindará un breve capacitación, buscando que
 email: [miguel.robles@atmosfera.unam.mx](mailto:miguel.robles@atmosfera.unam.mx?subject=practicas%20bachillerato)
 
 Si estás interesado, por favor envia un correo indicando tus datos:
+
 - nombre
 - carrera
 - plantel
