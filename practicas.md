@@ -3,7 +3,8 @@
 ## Programa: Integración de TIC, Programación y Electrónica en el Apoyo a la Investigación, Divulgación y Docencia en el Instituto (de Ciencias la Atmósfera y Cambio Climático)
 
 ## Objetivo
-Aplicar las tecnologías de la información y la comunicación (TIC), la programación y la electrónica para fortalecer las actividades de investigación, divulgación y docencia realizadas en el ICAyCC.
+
+ Aplicar las tecnologías de la información y la comunicación (TIC), la programación y la electrónica para fortalecer las actividades de investigación, divulgación y docencia realizadas en el ICAyCC.
 
 ## Actividades
 A continuación se listan las actividades generales, pero no implica que vayas a realizar todas las actividades en el desarrollo de tus prácticas.
