@@ -43,8 +43,35 @@ Si estás interesado, por favor envia un correo indicando tus datos:
 - disponibilidad de horario y fechas en las que te gustaría realizar tus prácticas
 - porqué te gustaría realizar tus prácticas aquí
 
+## Próximas fecha de inicio
+Estas fechas y horarios aun están por confirmarse por cuestiones de espacio.
+Las horas que falten por cubrir en las actividades presenciales, se cubriran con actividades en casa.
+
+### Actividades presenciales
+- Inicio: 2 Junio
+- Fin: 8 Agosto
+(7 semanas)
+
+### fechas no laborales
+- 7 al 25 de julio
+
+
+### Horario
+- 11 a 17 hrs de lunes a viernes
+
+Se dará una hora para comer
+
+
 ## Ubicación
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4578.774604013785!2d-99.17867492402077!3d19.326322181930458!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce001a88141fbd%3A0x921bfe65dd679787!2sInstituto%20de%20Ciencias%20de%20la%20Atm%C3%B3sfera%20y%20Cambio%20Clim%C3%A1tico%2C%20UNAM!5e1!3m2!1ses-419!2smx!4v1746758470794!5m2!1ses-419!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+## Registro
+
+Llena el siguiente formulario para comenzar el trámite de registro.
+Con esta información se generará tu carta de aceptación.
+Recuerda que se debe entregar junto a tu carta de presentación en la Secretaría Académica del Instituto
+
+[https://forms.gle/fQyHTPSSdiUZofDs9](https://forms.gle/fQyHTPSSdiUZofDs9)
 
 
