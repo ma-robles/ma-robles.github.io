@@ -9,13 +9,13 @@
   body {
     margin: 0;
     font-family: 'Montserrat', sans-serif;
-    background: linear-gradient(135deg, #667eea, #764ba2);
+    background: linear-gradient(135deg, lightseagreen, midnightblue);
     color: #f0f0f5;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    padding: 20px 15px;
+    align-items: normal;
+    padding: 20px 150px;
   }
 
   main {

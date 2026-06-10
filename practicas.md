@@ -1,4 +1,5 @@
-# Prácticas Profesionales
+# Prácticas Profesionales 
+## (Actualización 2026)
 
 ## Programa: Integración de TIC, Programación y Electrónica en el Apoyo a la Investigación, Divulgación y Docencia en el Instituto (de Ciencias la Atmósfera y Cambio Climático)
 
@@ -22,7 +23,7 @@ A continuación se listan las actividades generales, pero no implica que vayas a
 ## Capacitación
 Al inicio de las prácticas se te brindará un breve capacitación, buscando que puedas realizar tus actividades de manera eficiente. Los temas abordados en la capacitación, dependerán de las actividades a desarrollar, pero algunos de los temas de capacitación son los siguientes:
 
-- Conceptos básicos de programación en micropython
+- Conceptos básicos de microcontroladores y programación en micropython
 - Introducción al diseño y fabricación de prototipos electrónicos
 - Introducción a Python
 - Introducción al diseño 3D
@@ -34,33 +35,22 @@ Al inicio de las prácticas se te brindará un breve capacitación, buscando que
 
 email: [miguel.robles@atmosfera.unam.mx](mailto:miguel.robles@atmosfera.unam.mx?subject=practicas%20bachillerato)
 
-Si estás interesado, por favor envia un correo indicando tus datos:
-
-- nombre
-- carrera
-- plantel
-- semestre/año que cursas
-- disponibilidad de horario y fechas en las que te gustaría realizar tus prácticas
-- porqué te gustaría realizar tus prácticas aquí
-
 ## Próximas fecha de inicio
-Estas fechas y horarios aun están por confirmarse por cuestiones de espacio.
 Las horas que falten por cubrir en las actividades presenciales, se cubriran con actividades en casa.
 
 ### Actividades presenciales
-- Inicio: 2 Junio
-- Fin: 8 Agosto
-(7 semanas)
+- Inicio: 15 Junio 2026
+- Fin: 7 Agosto 2026
+(5 semanas)
 
 ### fechas no laborales
-- 7 al 25 de julio
+- 6 al 24 de julio
 
 
 ### Horario
-- 11 a 17 hrs de lunes a viernes
+- 10:30 a 17 hrs de lunes a viernes
 
 Se dará una hora para comer
-
 
 ## Ubicación
 
